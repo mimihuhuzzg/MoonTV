@@ -1,0 +1,3 @@
+[build.environment]
+  PASSWORD = "123456789"
+  IMAGE_PROXY = "https://improxy.zhangluotu1.dpdns.org/"
